@@ -1,1 +1,1 @@
-In this project, I'm creating a series of scripts
+This project contains a series of scripts
